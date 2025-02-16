@@ -2,7 +2,7 @@
 - set OpenAI credentials in .env file
 
 > OPENAI_API_KEY=
-OPENAI_ORGANIZATION=
+> OPENAI_ORGANIZATION=
 
 # Run Laravel application
 
